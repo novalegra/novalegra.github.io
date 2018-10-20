@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: pump.png
 category: Services
 title: A Low Cost, Closed Loop Insulin Pump Powered by OpenAPS
 description: |
