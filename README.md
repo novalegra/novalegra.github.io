@@ -1,2 +1,2 @@
 # Welcome to my website!
-## Well, the code, that is
+## Well, the code, but that's basically the same thing.
