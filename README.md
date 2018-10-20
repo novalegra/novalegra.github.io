@@ -1,1 +1,2 @@
-# Welcome to (the code of) my website!
+# Welcome to my website!
+## Well, the code, that is
