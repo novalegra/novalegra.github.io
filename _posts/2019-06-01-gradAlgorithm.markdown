@@ -1,6 +1,7 @@
 ---
 layout: default
 category: Services
+img: maGraduation.png
 title: gradAlgorithm
 description: |
 ---
