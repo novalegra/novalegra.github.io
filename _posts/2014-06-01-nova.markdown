@@ -5,4 +5,4 @@ img: nova.png
 title: Nova
 description: |
 ---
-When I couldn't find any cycle tracking app designed for menstrual cup users, I decided to create my own. Nova is an iOS app that integrates with HealthKit to enable patients to discreetly track and visualize their menstrual cup data. The user interface is entirely created in SwiftUI, and I intentionally utilized a more gender-neutral color palette to make the app more inclusive for everyone who menstruates. After its release on the Apple App Store, Nova has been used by patients in over 40 different countries.
+When I couldn't find any cycle tracking app designed for menstrual cup users, I decided to create my own. Nova is an iOS app that integrates with HealthKit to enable patients to discreetly track and visualize their menstrual cup data. The user interface is entirely created in SwiftUI, and I intentionally utilized a more gender-neutral color palette to make the app more inclusive for everyone who menstruates. After its release on the <a href="https://apps.apple.com/us/app/nova-period-tracker/id1531026220"> Apple App Store </a>, Nova has been used by patients in over 40 different countries.
