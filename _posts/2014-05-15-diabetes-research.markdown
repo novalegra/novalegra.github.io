@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Services
-img: dose_logging.png
+img: sample_risk_bg_plot.jpg
 title: Technology Research @ Stanford School of Medicine
 description: |
 ---
