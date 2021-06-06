@@ -1,8 +1,0 @@
----
-layout: default
-category: Services
-img: jmt.jpg
-title: JMT Cancellation Bot
-description: |
----
-In response to my own difficulty in obtaining a southbound permit to hike the John Muir Trail (JMT), a 220-mile backpacking trail in the High Sierras, I modified an open-source project to create a bot to automatically scrape the Yosemite cancellations website for cancellations. Using the MiddleManBot, it can automatically text a phone when there are permit openings that fit pre-specified criteria, such as the entry trailhead, date, and group size, so that the user can call the Yosemite permitting office to try to get it. I successfully used it to get a permit during peak season, when there can be thousands of hikers trying to get the 20 permits that are available each day.
